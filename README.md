@@ -9,5 +9,5 @@
 [`Instagram`](https://www.instagram.com/yaeumh/)
 
 | apple | banana | 
-|----- | ----- |
+| ----- | ----- |
 | banana | apple |

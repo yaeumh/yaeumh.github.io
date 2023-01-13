@@ -29,3 +29,11 @@ I started being a Blink (BLACKPINK's fandom name) dating back at 2020 when I've 
 "How You Like That"
 
 link
+
+...and then I started stanning (being a fan of) other korean groups/bands/artists too!
+My second favorite band is NCT Dream, here's my favorite song of them:
+
+Hello Future
+
+link
+

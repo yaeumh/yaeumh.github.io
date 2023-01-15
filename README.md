@@ -15,7 +15,7 @@ Here is also my playlist in Spotify that I made that consists of 1,152 songs as 
 ---
 
 
-My favorite artist/band is BLACKPINK , here's their latest release:
+My favorite artist/band is BLACKPINK, here are their latest releases:
 
 "Pink Venom"
 

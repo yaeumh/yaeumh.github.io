@@ -72,3 +72,8 @@ Here's the other artists/groups that I am a fan of:
 
 (Special Mention) **Taylor Swift** | 2017
 
+---
+
+I am also a fan of K-Dramas before and I used to binge watch episodes, but to hectic schedules now and studies, I don't watch it that much anymore as before.
+
+Here's the list of some K-dramas I've watched before:

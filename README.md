@@ -61,3 +61,6 @@ Lesserafim | Girl Group | 2022 |
 BTS | Boy Group | 2020 |
 GOT the beat | Girl Group | 2021 |
 SuperM | Boy Group | 2021 |
+Itzy | Girl Group | 2020|
+
+(Special Mention) Taylor Swift | 2017

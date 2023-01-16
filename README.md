@@ -39,3 +39,25 @@ My second favorite band is NCT Dream, here's my favorite song of them:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPUjV7epJqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Here's the other artists/groups that I am a fan of:
+
+| Names | Boy/Girl Group | Year I stanned |
+| ---- | ---- | ---- |
+BLACKPINK | Girl Group | 2020 |
+NCT | Boy Group | 2021 |
+RedVelvet | Girl Group | 2021 |
+EXO | Boy Group | 2020 |
+aespa | Girl Group | 2020 |
+Straykids | Boy Group | 2021 |
+Nmixx | Girl Group | 2022 |
+TXT | Boy Group | 2020 |
+Twice | Girl Group | 2020 |
+Ateez | Boy Group | 2022 |
+Baby Monster | Girl Group | 2020 (pre-debut stan) |
+Wayv | Boy Group | 2021 |
+IVE | Girl Group | 2021 |
+Enhypen | Boy Group | 2020 |
+Lesserafim | Girl Group | 2022 |
+BTS | Boy Group | 2020 |
+GOT the beat | Girl Group | 2021 |
+SuperM | Boy Group | 2021 |

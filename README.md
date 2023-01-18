@@ -3,10 +3,6 @@
 
 ---
 
-![A picture of my cat sneezing](file:///C:/Users/IAN/Downloads/278911201_4999926313377672_4789897025704522320_n.jpg)
-
----
-
 quick info and intro about me!:
 - **i'm a fan of k-pop, not too long ago**
 - **i play games, one of them is valorant**

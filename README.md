@@ -3,6 +3,16 @@
 
 ---
 
+quick info and intro about me!:
+- **i'm a fan of k-pop, not too long ago**
+- **i play games, one of them is valorant**
+- **i have two cats**
+- **i trained in journalism for 3-4 years and competed 2 years, i won divisional level and regional level**
+- **i also won most outstanding campus journalist award twice**
+- **mbti: infj (if i remember it right)**
+- **i'm interested in science and topics such as geology and astrology**
+- **here are my  social medias;**
+
 ## **Social Media Accounts:**
 
 [`Facebook`](https://www.facebook.com/yaeumh)

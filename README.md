@@ -7,7 +7,7 @@
 
 [`Facebook`](https://www.facebook.com/yaeumh)
 [`Instagram`](https://www.instagram.com/yaeumh/)
-[`Other Social Medias (Compiled)`](https://yaeumh.carrd.co/)
+[`Other Socials Compiled`](https://yaeumh.carrd.co/)
 
 Here is also my playlist in Spotify that I made that consists of 1,152 songs as of now:
 

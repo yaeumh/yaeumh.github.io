@@ -6,8 +6,10 @@
 ## **Social Media Accounts:**
 
 [`Facebook`](https://www.facebook.com/yaeumh)
+
 [`Instagram`](https://www.instagram.com/yaeumh/)
-[`Other Socials Compiled`](https://yaeumh.carrd.co/)
+
+[`Other Socials Medias Compiled`](https://yaeumh.carrd.co/)
 
 Here is also my playlist in Spotify that I made that consists of 1,152 songs as of now:
 
@@ -77,3 +79,17 @@ Here's the other artists/groups that I am a fan of:
 I am also a fan of K-Dramas before and I used to binge watch episodes, but to hectic schedules now and studies, I don't watch it that much anymore as before.
 
 Here's the list of some K-dramas I've watched before:
+
+- Snowdrop
+- Business Proposal
+- Hotel Del Luna
+- Weightlifting Fairy
+- True Beauty
+- Sweet Home
+- Twenty Five Twenty One
+- Forecasting Love and Weather
+- Love Alarm
+- Goblin
+- W
+- The Hymn of Death
+...and many more that I can't remember

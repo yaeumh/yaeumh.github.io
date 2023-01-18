@@ -3,8 +3,9 @@
 
 ---
 
-[![A picture of my cat sneezing](<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D4999926323377671%26set%3Da.144524078917944%26type%3D3&show_text=true&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>)
+![A picture of my cat sneezing](https://github.com/yaeumh/yaeumh.github.io/issues/1#issue-1537887462)
 
+---
 
 quick info and intro about me!:
 - **i'm a fan of k-pop, not too long ago**

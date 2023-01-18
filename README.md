@@ -80,16 +80,17 @@ I am also a fan of K-Dramas before and I used to binge watch episodes, but to he
 
 Here's the list of some K-dramas I've watched before:
 
-- Snowdrop
-- Business Proposal
-- Hotel Del Luna
-- Weightlifting Fairy
-- True Beauty
-- Sweet Home
-- Twenty Five Twenty One
-- Forecasting Love and Weather
-- Love Alarm
-- Goblin
-- W
-- The Hymn of Death
-...and many more that I can't remember
+- **Snowdrop**
+- **Business Proposal**
+- **Hotel Del Luna**
+- **Weightlifting Fairy**
+- **True Beauty**
+- **Sweet Home**
+- **Twenty Five Twenty One**
+- **Forecasting Love and Weather**
+- **Love Alarm**
+- **Goblin**
+- **W**
+- **The Hymn of Death**
+- **Hi Bye Mama**
+**...and many more that I can't remember**

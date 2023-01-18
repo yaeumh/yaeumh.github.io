@@ -3,7 +3,7 @@
 
 ---
 
-![A picture of my cat sneezing](https://github.com/yaeumh/yaeumh.github.io/issues/1#issue-1537887462)
+![A picture of my cat sneezing](file:///C:/Users/IAN/Downloads/278911201_4999926313377672_4789897025704522320_n.jpg)
 
 ---
 

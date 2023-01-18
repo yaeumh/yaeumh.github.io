@@ -3,6 +3,9 @@
 
 ---
 
+[![A picture of my cat sneezing](<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D4999926323377671%26set%3Da.144524078917944%26type%3D3&show_text=true&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>)
+
+
 quick info and intro about me!:
 - **i'm a fan of k-pop, not too long ago**
 - **i play games, one of them is valorant**
@@ -39,14 +42,15 @@ My favorite artist/band is **BLACKPINK**, here are their latest releases:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/POe9SOEKotk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-I started being a Blink (BLACKPINK's fandom name) dating back at 2020 when I've first listened to their song;
+I started being a **Blink (BLACKPINK's fandom name)** dating back at 2020 when I've first listened to their song;
 
 ### **"How You Like That"**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ioNng23DkIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ...and then I started stanning (being a fan of) other korean groups/bands/artists too!
-My second favorite band is NCT Dream, here's my favorite song of them:
+
+My second favorite band is **NCT Dream**, here's my favorite song of them:
 
 ## **"Hello Future"**
 

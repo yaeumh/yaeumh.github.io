@@ -21,9 +21,14 @@ quick info and intro about me!:
 
 [`Other Socials Medias Compiled`](https://yaeumh.carrd.co/)
 
+
+---
+
+
 Here is also my playlist in Spotify that I made that consists of 1,152 songs as of now:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7FE3FBtknUUm9h4RdMYwKK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 ---
 
@@ -53,7 +58,11 @@ My second favorite band is **NCT Dream**, here's my favorite song of them:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPUjV7epJqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+
 ---
+
+
 
 Here's the other artists/groups that I am a fan of:
 

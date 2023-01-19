@@ -101,9 +101,15 @@ I am also a fan of K-Dramas before and I used to binge watch episodes, but to he
 Here's the list of some K-dramas I've watched before:
 
 - **Snowdrop**
+- **Penthouse**
+- **Suspicious Partner**
+- **18 Again**
+- **Youth of May**
 - **Business Proposal**
 - **Hotel Del Luna**
 - **Weightlifting Fairy**
+- **Descendants of the Sun**
+- **Start Up**
 - **True Beauty**
 - **Sweet Home**
 - **Twenty Five Twenty One**
@@ -113,5 +119,17 @@ Here's the list of some K-dramas I've watched before:
 - **W**
 - **The Hymn of Death**
 - **Hi Bye Mama**
+- **Romance is a Bonus Book**
+- **While You Were Sleeping**
+- **Squid Game**
+- **What's Wrong with Secretary Kim**
+- **Tale of the Nine Taled**
+- **The King: Eternal Monarch**
+- **Legend of the Blue Sea**
+- **It's Okay Not To Be Okay**
+- **Oh My Ghost**
+- **Record of Youth**
+- **The One and Only**
+- 
 
 **...and many more that I can't remember**

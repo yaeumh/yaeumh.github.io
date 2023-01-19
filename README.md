@@ -25,7 +25,7 @@ quick info and intro about me!:
 ---
 
 
-Here is also my playlist in Spotify that I made that consists of 1,152 songs as of now:
+Here is also my playlist in Spotify that I made that consists of 1,158 songs as of now:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7FE3FBtknUUm9h4RdMYwKK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

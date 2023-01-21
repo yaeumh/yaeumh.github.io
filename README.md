@@ -130,7 +130,6 @@ here's the list of some K-dramas I've watched before:
 - **Oh My Ghost**
 - **Record of Youth**
 - **The One and Only**
-- 
 
 **...and many more that I can't remember**
 

@@ -25,7 +25,7 @@ quick info and intro about me!:
 ---
 
 
-Here's also my playlist in Spotify that I made that consists of 1,158 songs as of now:
+here's also my playlist in Spotify that I made that consists of 1,158 songs as of now:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7FE3FBtknUUm9h4RdMYwKK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -33,7 +33,7 @@ Here's also my playlist in Spotify that I made that consists of 1,158 songs as o
 ---
 
 
-My favorite artist/band is **BLACKPINK**, here are their latest releases:
+my favorite artist/band is **BLACKPINK**, here are their latest releases:
 
 ### **"Pink Venom"**
 
@@ -52,7 +52,7 @@ I started being a **Blink (BLACKPINK's fandom name)** dating back at 2020 when I
 
 ...and then I started stanning (being a fan of) other korean groups/bands/artists too!
 
-My second favorite band is **NCT Dream**, here's my favorite song of them:
+my second favorite band is **NCT Dream**, here's my favorite song of them:
 
 ## **"Hello Future"**
 
@@ -64,7 +64,7 @@ My second favorite band is **NCT Dream**, here's my favorite song of them:
 
 
 
-Here's the other artists/groups that I am a fan of:
+here's the other artists/groups that I am a fan of:
 
 | Names | Boy/Girl Group | Year I stanned |
 | ---- | ---- | ---- |
@@ -98,7 +98,7 @@ Here's the other artists/groups that I am a fan of:
 
 I am also a fan of K-Dramas before and I used to binge watch episodes, but to hectic schedules now and studies, I don't watch it that much anymore as before.
 
-Here's the list of some K-dramas I've watched before:
+here's the list of some K-dramas I've watched before:
 
 - **Snowdrop**
 - **Penthouse**

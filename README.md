@@ -15,11 +15,11 @@ quick info and intro about me!:
 
 ## **Social Media Accounts:**
 
-[`Facebook`](https://www.facebook.com/yaeumh)
+**[`Facebook`](https://www.facebook.com/yaeumh)**
 
-[`Instagram`](https://www.instagram.com/yaeumh/)
+**[`Instagram`](https://www.instagram.com/yaeumh/)**
 
-[`Other Socials Medias Compiled`](https://yaeumh.carrd.co/)
+**[`Other Socials Medias Compiled`](https://yaeumh.carrd.co/)**
 
 
 ---

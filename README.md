@@ -8,9 +8,9 @@ quick info and intro about me!:
 - **i play games, one of them is valorant**
 - **i have two cats**
 - **i trained in journalism for 3-4 years and competed 2 years, i won divisional level and regional level**
-- **i also won most outstanding campus journalist award twice**
+- **i also won most outstanding campus journalist award**
 - **mbti: infj (if i remember it right)**
-- **i'm interested in science and topics such as geology and astrology**
+- **i'm interested in science and topics such as geology, astrology, and paleontology**
 - **here are my  social medias;**
 
 ## **Social Media Accounts:**
@@ -25,7 +25,7 @@ quick info and intro about me!:
 ---
 
 
-Here is also my playlist in Spotify that I made that consists of 1,158 songs as of now:
+Here's also my playlist in Spotify that I made that consists of 1,158 songs as of now:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7FE3FBtknUUm9h4RdMYwKK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
